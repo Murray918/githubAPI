@@ -1,0 +1,15 @@
+.container {
+
+}
+h1{
+  background: black;
+  color: white;
+  text-align: center;
+  height: 6em;
+}
+section {
+  display: flex;
+  flex-direction: row;
+  
+
+}
